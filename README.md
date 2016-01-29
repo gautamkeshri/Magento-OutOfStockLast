@@ -29,3 +29,7 @@ Ou faça manualmente:
 ## Autor
 [Ricardo Martins](http://ricardomartins.net.br/)  (<ricardo@ricardomartins.net.br>)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gautamkeshri/magento-outofstocklast/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
